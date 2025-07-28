@@ -1,6 +1,5 @@
 import { AfterViewInit, Component } from '@angular/core';
-import * as fabric from 'fabric';
-
+import { fabric } from 'fabric';
 
 @Component({
   selector: 'app-design',
